@@ -1,7 +1,7 @@
 # Restaurant-and-Consumer-Analysis
 ![image](https://github.com/user-attachments/assets/e2dcac0c-fd10-44c4-b6a6-cac244e7969b)
 
-Key Customer Insights:
+#Key Customer Insights:
 
 · Age Group: 80% of our customers belong to the 18-25 age group, our primary target audience.
 
@@ -15,7 +15,7 @@ Key Customer Insights:
 
 · Transportation Preferences: 79% prefer public transport, 27% use cars, and 11% walk.
 
-Restaurant Functionality Insights:
+#Restaurant Functionality Insights:
 
 ![image](https://github.com/user-attachments/assets/cbe4ac7f-1b92-45b6-b28d-074dcf480e33)
 
@@ -26,7 +26,7 @@ Restaurant Functionality Insights:
 
 · Top 5 Restaurants: Hipocampo, Puesto de Gorditas, Chalita, La Cantina, and El Pacifo.
 
-· Bar Service: 67% offer a full bar, 26% serve wine and beer only.
+· Bar Service: 67% offer a full bar, and 26% serve wine and beer only.
 
 · Parking: 71% have parking facilities, 25% provide public parking, and 5% offer valet parking.
 
