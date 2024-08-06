@@ -17,6 +17,9 @@ Key Customer Insights:
 
 Restaurant Functionality Insights:
 
+![image](https://github.com/user-attachments/assets/cbe4ac7f-1b92-45b6-b28d-074dcf480e33)
+
+
 · Price: 60 restaurants fall under the medium price range.
 
 · Cuisine: Mexican cuisine is the most popular, followed by Bar and Cafeteria.
@@ -30,6 +33,8 @@ Restaurant Functionality Insights:
 · Smoking Policy: 73% of restaurants have a no-smoking policy.
 
 · Open Restaurants: Only 15 restaurants are currently open.
+
+
 
 Analysis: Based on the insights gathered, there are several key factors to consider for strategic decision-making and investment opportunities in the Mexican restaurant market:
 
