@@ -1,4 +1,4 @@
-# Restaurant-and-Consumer-Analysis
+# Restaurant and Consumer Analysis
 ![image](https://github.com/user-attachments/assets/e2dcac0c-fd10-44c4-b6a6-cac244e7969b)
 
 #Key Customer Insights:
