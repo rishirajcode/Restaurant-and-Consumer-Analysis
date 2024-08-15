@@ -1,6 +1,7 @@
 # Restaurant and Consumer Analysis
 ![image](https://github.com/user-attachments/assets/e2dcac0c-fd10-44c4-b6a6-cac244e7969b)
 
+#https://app.powerbi.com/view?r=eyJrIjoiYzAyMDI1YTUtMDA1NC00MjMyLWIzZTctNGM3OWM2OGFmMmFlIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9
 #Key Customer Insights:
 
 · Age Group: 80% of our customers belong to the 18-25 age group, our primary target audience.
