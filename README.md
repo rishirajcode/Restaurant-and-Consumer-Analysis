@@ -4,7 +4,7 @@
 https://app.powerbi.com/view?r=eyJrIjoiYzAyMDI1YTUtMDA1NC00MjMyLWIzZTctNGM3OWM2OGFmMmFlIiwidCI6IjU4YWYyNDZhLWVlNzYtNGYxYS05YzBmLWU0ZmY1Y2JjYTU1ZiJ9
 # Key Customer Insights:
 
-· Age Group: 80% of our customers belong to the 18-25 age group, our primary target audience.
+· Age Group: Our primary target audience is the 18-25 age group, which comprises 80% of our customers.
 
 · Budget: Most customers have a medium budget.
 
